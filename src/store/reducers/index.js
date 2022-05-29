@@ -1,0 +1,1 @@
+export {default as contactReducer} from './contactReducer';
